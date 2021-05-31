@@ -9,3 +9,5 @@ console.log('////////////');
 console.log('dev');
 console.log('b1');
 console.log('b2');
+
+console.log('new');
