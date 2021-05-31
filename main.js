@@ -11,3 +11,6 @@ console.log('b1');
 console.log('b2');
 
 console.log('////////////');
+console.log('new');
+
+console.log('merge合并');
