@@ -5,3 +5,6 @@ console.log('bug bugfixed')
 
 
 console.log('////////////');
+
+
+console.log('b1');
