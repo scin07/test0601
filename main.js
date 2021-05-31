@@ -14,3 +14,8 @@ console.log('////////////');
 console.log('new');
 
 console.log('merge合并');
+
+console.log('////////////');
+console.log('rebase1');
+console.log('rebase2');
+console.log('rebase3');
